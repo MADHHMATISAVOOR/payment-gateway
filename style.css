@@ -1,0 +1,98 @@
+body{
+	background:url('images/Untitled.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:contain;
+	}
+h1{
+	text-align:center;
+	margin:20px;
+	font-family: georgian;
+	font-size:40px;
+	color: black;
+}
+p{
+	text-align:center;
+	font-family: georgian;
+	font-size: 22px;
+	color: #7F2E2B;
+	font-weight:bold;
+}
+button
+{
+	margin:20px;
+	background-color: white;
+	color: black;
+	cursor: pointer;
+	width:100px;
+	height:50px;
+	transition-duration:0.4s;
+	border:2px solid #4CAF50;
+	border-radius:5px;
+	font-family:georgian;
+	font-size:17px;
+	font-weight:bold;
+}
+button:hover
+{
+	background-color:green;
+	color:white;
+}
+footer
+{
+	position : absolute;
+	width:100%;
+	bottom:0;
+	background-color: black;
+	font-size:19px;
+	color:white;
+	overflow:visible;
+}
+img{
+	width:100%;
+	height:50px;
+}
+
+#button
+{
+	margin:20px;
+	width:90%;
+	background-color:#DEF8F9;
+	font-family: Roboto, Arial,sans-serif;
+	font-weight:bold;
+	
+}
+#button:hover{
+	background-color:#00b9F5;
+	color:white;
+}
+h4
+{
+	font-family: Roboto, Arial,sans-serif;
+	font-weight:bold;
+
+}
+#field
+{
+	width:100%;
+	height:6%;
+	font-family:Arial,sans-serif;
+	font-size:17px;
+	}
+#field1
+{
+	height:6%;
+	font-family:Arial,sans-serif;
+	font-size:17px;
+}
+table,td
+{
+	text-align:center;
+	border:2px solid #4CAF50;
+	border-radius:5px;
+	font-family:georgian;
+	font-size:17px;
+	font-weight:bold;
+	border-collapse:collapse;
+	padding:5px;
+}
